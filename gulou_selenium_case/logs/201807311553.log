@@ -1,0 +1,27 @@
+2018-07-31 15:53:10,807 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-31 15:53:10,807 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/
+2018-07-31 15:53:15,349 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-31 15:53:15,756 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/
+2018-07-31 15:53:16,872 - BrowserEngine - INFO - Maximize the current window.
+2018-07-31 15:53:16,873 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-07-31 15:53:17,933 - BasePage - INFO - Had type ' 01 ' in inputBox
+2018-07-31 15:53:18,005 - BasePage - INFO - Had type ' 666666 ' in inputBox
+2018-07-31 15:53:18,029 - BasePage - INFO - Had find the element '  ' successful by id via value: submitBtn 
+2018-07-31 15:53:18,070 - BasePage - INFO - The element ' %s ' was clicked.
+2018-07-31 15:53:20,070 - BasePage - INFO - Sleep for 2 seconds
+2018-07-31 15:53:21,096 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='login-wrap']/div/input[1] 
+2018-07-31 15:53:22,548 - BasePage - INFO - The element ' %s ' was clicked.
+2018-07-31 15:53:56,945 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-31 15:53:56,945 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/
+2018-07-31 15:54:01,400 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-31 15:54:01,747 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/
+2018-07-31 15:54:02,863 - BrowserEngine - INFO - Maximize the current window.
+2018-07-31 15:54:02,864 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-07-31 15:54:03,923 - BasePage - INFO - Had type ' 01 ' in inputBox
+2018-07-31 15:54:03,999 - BasePage - INFO - Had type ' 666666 ' in inputBox
+2018-07-31 15:54:04,023 - BasePage - INFO - Had find the element '  ' successful by id via value: submitBtn 
+2018-07-31 15:54:04,069 - BasePage - INFO - The element ' %s ' was clicked.
+2018-07-31 15:54:06,069 - BasePage - INFO - Sleep for 2 seconds
+2018-07-31 15:54:07,095 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='login-wrap']/div/input[1] 
+2018-07-31 15:54:08,484 - BasePage - INFO - The element ' %s ' was clicked.
+2018-07-31 15:54:12,841 - BasePage - INFO - Had find the element ' ÐÂ½¨¿¼ºË ' successful by xpath via value: //*[@id='interval']/div/div[1]/div[1]/button[1] 

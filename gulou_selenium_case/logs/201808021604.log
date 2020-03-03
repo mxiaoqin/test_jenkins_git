@@ -1,0 +1,14 @@
+2018-08-02 16:04:18,374 - BrowserEngine - INFO - You had select Chrome browser.
+2018-08-02 16:04:18,374 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/
+2018-08-02 16:04:22,839 - BrowserEngine - INFO - Starting Chrome browser.
+2018-08-02 16:04:23,292 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/
+2018-08-02 16:04:24,407 - BrowserEngine - INFO - Maximize the current window.
+2018-08-02 16:04:24,408 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-08-02 16:04:25,469 - BasePage - INFO - Had type ' 01 ' in inputBox
+2018-08-02 16:04:25,543 - BasePage - INFO - Had type ' 666666 ' in inputBox
+2018-08-02 16:04:25,569 - BasePage - INFO - Had find the element '  ' successful by id via value: submitBtn 
+2018-08-02 16:04:25,607 - BasePage - INFO - The element ' %s ' was clicked.
+2018-08-02 16:04:26,632 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='login-wrap']/div/input[1] 
+2018-08-02 16:04:27,957 - BasePage - INFO - The element ' %s ' was clicked.
+2018-08-02 16:04:33,297 - BasePage - INFO - Had find the element ' ÐÂ½¨¿¼ºË ' successful by xpath via value: //*[@id='interval']/div/div[1]/div[1]/button[1] 
+2018-08-02 16:04:33,348 - BasePage - INFO - The element ' %s ' was clicked.

@@ -1,0 +1,24 @@
+2018-08-20 18:36:52,207 - BrowserEngine - INFO - You had select Chrome browser.
+2018-08-20 18:36:52,207 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/login
+2018-08-20 18:36:57,432 - BrowserEngine - INFO - Starting Chrome browser.
+2018-08-20 18:36:57,868 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/login
+2018-08-20 18:36:58,991 - BrowserEngine - INFO - Maximize the current window.
+2018-08-20 18:36:58,992 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-08-20 18:38:00,648 - BrowserEngine - INFO - You had select Chrome browser.
+2018-08-20 18:38:00,648 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/login
+2018-08-20 18:38:05,252 - BrowserEngine - INFO - Starting Chrome browser.
+2018-08-20 18:38:05,809 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/login
+2018-08-20 18:38:06,940 - BrowserEngine - INFO - Maximize the current window.
+2018-08-20 18:38:06,941 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-08-20 18:39:08,616 - BrowserEngine - INFO - You had select Chrome browser.
+2018-08-20 18:39:08,616 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/login
+2018-08-20 18:39:13,323 - BrowserEngine - INFO - Starting Chrome browser.
+2018-08-20 18:39:13,765 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/login
+2018-08-20 18:39:14,889 - BrowserEngine - INFO - Maximize the current window.
+2018-08-20 18:39:14,890 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-08-20 18:40:16,670 - BrowserEngine - INFO - You had select Chrome browser.
+2018-08-20 18:40:16,670 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/login
+2018-08-20 18:40:21,286 - BrowserEngine - INFO - Starting Chrome browser.
+2018-08-20 18:40:21,830 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/login
+2018-08-20 18:40:22,960 - BrowserEngine - INFO - Maximize the current window.
+2018-08-20 18:40:22,961 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

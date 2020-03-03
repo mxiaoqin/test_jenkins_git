@@ -1,0 +1,15 @@
+2018-08-02 15:23:45,841 - BrowserEngine - INFO - You had select Chrome browser.
+2018-08-02 15:23:45,842 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/
+2018-08-02 15:23:50,401 - BrowserEngine - INFO - Starting Chrome browser.
+2018-08-02 15:23:50,771 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/
+2018-08-02 15:23:51,888 - BrowserEngine - INFO - Maximize the current window.
+2018-08-02 15:23:51,889 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-08-02 15:23:52,950 - BasePage - INFO - Had type ' 01 ' in inputBox
+2018-08-02 15:23:53,037 - BasePage - INFO - Had type ' 666666 ' in inputBox
+2018-08-02 15:23:53,066 - BasePage - INFO - Had find the element '  ' successful by id via value: submitBtn 
+2018-08-02 15:23:53,117 - BasePage - INFO - The element ' %s ' was clicked.
+2018-08-02 15:24:04,123 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='login-wrap']/div/input[1]"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 10.0.10586 x86_64)
+
+2018-08-02 15:24:04,806 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

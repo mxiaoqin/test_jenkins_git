@@ -1,0 +1,6 @@
+2018-08-21 10:53:39,423 - BrowserEngine - INFO - You had select Chrome browser.
+2018-08-21 10:53:39,423 - BrowserEngine - INFO - The test server url is: http://192.168.1.202:9017/login
+2018-08-21 10:53:44,042 - BrowserEngine - INFO - Starting Chrome browser.
+2018-08-21 10:53:44,531 - BrowserEngine - INFO - Open url: http://192.168.1.202:9017/login
+2018-08-21 10:53:45,659 - BrowserEngine - INFO - Maximize the current window.
+2018-08-21 10:53:45,661 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
